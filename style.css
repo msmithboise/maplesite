@@ -1,7 +1,24 @@
-.bg-blue{
-    background-color:rgb(104, 104, 173);
-    color:white;
+.bg-grey{
+    background-color:#3b3b3b;
+    color:#f9f9f9;
+}
 
 .hero-image{
         background-image: url(https://www.gannett-cdn.com/-mm-/7f49ee472b4a5135ecd8174449517bb4a7e42df4/c=0-152-2000-1282/local/-/media/2016/03/04/Poughkeepsie/Poughkeepsie/635926990192633151-POUBrd-05-06-2013-Daily-1-A002--2013-05-05-IMG-SECONDARY-kr-CrownMa-2-1-GF422A1A-L222542140-IMG-SECONDARY-kr-CrownMa-2-1-GF422A1A.jpg?width=3200&height=1680&fit=crop);
-        height: 40vh;
+        height: 60vh;
+        background-size: cover;
+}
+h1{
+    
+    color: #f9f9f9;
+}
+h2{
+    margin-top: 50%;
+    color: #f9f9f9
+}
+h3{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-size: 4vh;
+    text-align: center;
+}
